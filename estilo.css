@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(239,136,179);
+}
+@font-face {
+    font-family:gruesa;
+    font-style: normal;
+    font-weight: normal;
+    src: url(pvp.ttf);
+}
+@font-face{
+    font-family: delgada;
+    font-style: normal;
+    font-weight: normal;
+    src: url(delgada.otf);
+}
+h1.amor{
+    font-family: gruesa;
+    font-size: 40px;
+    text-align: center;
+}
+.cuadro_1{
+    font-family: gruesa;
+    font-size:30px;
+    padding: 15px;
+    background-color: white;
+    border: 5px ridge red;
+}
