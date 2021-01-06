@@ -1,52 +1,7 @@
 body{
     background-color: #ffd4cd;
 }
-@font-face {
-    font-family:gruesa;
-    font-style: normal;
-    font-weight: normal;
-    src: url(pvp.ttf);
-}
-@font-face{
-    font-family: delgada;
-    font-style: normal;
-    font-weight: normal;
-    src: url(delgada.otf);
-}
-h1.amor{
-    font-family: gruesa;
-    font-size: 37px;
-    text-align: center;
-}
-.cuadro_1{
-    
-    font-size:30px;
-    padding: 15px;
-    background-color: rgb(254,238,204);
-    border-left: 5px ridge red;
-    border-right: 5px ridge red;
-    border-top: 5px ridge red;
-}
-.cuadro_2{
-    
-    font-size:30px;
-    padding: 15px;
-    background-color: rgb(254,238,204);
-    border-left: 5px ridge red;
-    border-right: 5px ridge red;
-    border-bottom: 5px ridge red;
-    margin-top: -47px;
-}
-p{
-    font-family:monospase;
-}
-html {
-    
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-}
+
 .boton1{
     width: 170px;
     position: absolute;
